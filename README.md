@@ -1,0 +1,2 @@
+# lapy
+laptop deatails
